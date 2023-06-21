@@ -1,0 +1,49 @@
+body {
+    background-image: url('photos/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 350vh;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    margin-top: 3vh;
+    padding-bottom: 3vh;
+}
+
+img {
+    float:left;
+    margin-right: 15px;
+    
+}
+
+.text-box h3 {
+    color: #f78206;
+}
+
+.text-box h3:hover {
+    color: rgb(214, 105, 15)
+}
+
+.text-box p {
+    color:  #4F200D;
+
+}
+
+.text-box p:hover {
+    color:  black;
+}
+
+
+
+
+
+
+
+
